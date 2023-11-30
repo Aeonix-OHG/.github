@@ -1,7 +1,7 @@
 # Allix-Studios
 ## About
 Allix-Studios is a App and Game development studio wich was founded in November 2022.
-## Where we are
+## Who we are
 - Bonbon and arGameplay both Owner of this Organisation
 ## What do we do
 We work at the moment at different projects but our main project is AllixOS an inovative new operatingsystem with never seen before features
